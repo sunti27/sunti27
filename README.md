@@ -27,4 +27,7 @@ I've always been interested in science and the way things work. Apart from that,
 
 **GitHub Stats:**
 
-<img src="https://github-readme-stats.vercel.app/api?username=sunti27&show_icons=true&theme=tokyonight">
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=sunti27&show_icons=true&theme=tokyonight&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunti27&theme=tokyonight">
+</div>

@@ -23,7 +23,7 @@ I've always been interested in science and the way things work. Apart from that,
 - 💻 I'm currently working on a webapp that lets students find out about their future opportunities
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - 💬 Ask me about various things related to [Python](https://www.python.org/) or programming in general
-- 📫 You can contact me through [Email](mailto:luca.suntinger@edu.htl-villach.at)
+- 📫 You can contact me through email: sunti27@protonmail.com
 
 **GitHub Stats:**
 
